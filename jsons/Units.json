@@ -13,4 +13,17 @@
 		"promotions": ["Shock I","Cover I","Defensive Formation"],
 		"attackSound": "metalhit"
 	}
+	{
+		"name": "Helot",
+		"unitType": "Sword",
+		"uniqueTo": "Sparta",
+		"replaces": Warrior",
+		"movement": 1,
+		"strength": 7,
+		"cost": 40,
+		"uniques": ["Can build [Land] improvements on tiles"],
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Swordsman",
+		"attackSound": "nonmetalhit"
+	}
 ]
