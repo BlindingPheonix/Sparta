@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "The Menelaion",
+		"replaces": "National Epic",
+		"uniqueTo": "Sparta",
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"cost": 125,
+		"culture": 2,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Monument",
+		"uniques": ["[+1 Culture] per [2] population [in this city]"],
+		"requiredTech": "Drama and Poetry"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Slave Housing",
+		"replaces": "Granary",
+		"uniqueTo": "Sparta",
+		"cost": 60,
+		"Food": 1,
+		"Production" 2,
+		"hurryCostModifier": 120,
+		"uniques": ["[+15]% Production when constructing [Land] units [in this city]"],
+		"requiredTech": "Masonry"
 	}
 ]
