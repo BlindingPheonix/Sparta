@@ -10,7 +10,7 @@
 		"startIntroPart2": "",
 		
 		"declaringWar": "Prepare to burn.",
-		"attacked": "You want my cites? Come and take them.",
+		"attacked": "You want my lands? Come and take them.",
 		"defeated": "This is not possible... I am... defeated?",
 		"introduction": "Welcome to Sparta. Do not push our borders, and we will get along just fine.",
 		
@@ -24,7 +24,6 @@
 		"hateNo": "No!",
 		"hateYes": "Very well.",
 		
-		"afterPeace": "This time, stay out.",
 		"tradeRequest": "I have a proposal.",
 
 		"outerColor": [153, 0, 0],
