@@ -30,7 +30,7 @@
 		"outerColor": [153, 0, 0],
 		"innerColor": [255, 51, 0],
 		"uniqueName": "Warrior-Slave Society",
-		"uniques": ["[-30]% Production [in cities <without a garrison>]","[land] units gain the [Quick Study] promotion","Double quantity of [Coal] produced","New [Land] units start with [15] Experience [in all cities]","Cannot build [Settler] units"],
+		"uniques": ["[-30]% Production [in cities <without a garrison>]","[land] units gain the [Quick Study] promotion","New [Land] units start with [15] Experience [in all cities]","Cannot build [Settler] units"],
 		"cities": ["Sparta"]
 	}
 ]
